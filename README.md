@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer with a focus on bui
 
 I'm a software enthusiast with a keen interest in:
 
-- **Programming Languages:** Python, SQL, Java
-- **Data Engineering Tools:** Apache Spark, Kafka, Airflow, dbt
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Data Warehousing:** Snowflake, Redshift, BigQuery
+- **Programming Languages:** SQL, Pyspark , Python
+- **Data Engineering Tools:** ADF, Databricks,Apache Spark,Incorta, Qlik Replicate, theobald
+- **Cloud Platforms:** Azure
+- **Databases:** MySQL
+- **Data Warehousing:** Synapse
 
-Currently, I'm focusing on building scalable data architectures and exploring the world of machine learning.
+Currently, I'm focusing on building scalable data architectures and exploring the world of AI.
 
 ---
 
@@ -26,16 +26,16 @@ Currently, I'm focusing on building scalable data architectures and exploring th
 
 ## 🧩 Skills
 
-- **Data Engineering:** Building and maintaining data pipelines using Apache Spark and Kafka.
-- **Cloud Computing:** Designing and deploying data solutions on AWS, Azure, and GCP.
-- **Data Warehousing:** Implementing data warehousing solutions using Snowflake and Redshift.
-- **ETL Processes:** Developing ETL processes using Apache Airflow and dbt.
+- **Data Engineering:** Building and maintaining data pipelines using ADF.
+- **Cloud Computing:** Designing and deploying data solutions on Azure.
+- **Data Warehousing:** Implementing data warehousing solutions using Synapse.
+- **ETL Processes:** Developing ETL processes using ADF and dbt.
 
 ---
 
 ## 📣 Let's Connect
 
-- [LinkedIn](#)
+- [LinkedIn](https://in.linkedin.com/in/sachin-dev-sharma-378001161)
 - [Twitter](#)
 - [Personal Website](#)
 
@@ -45,8 +45,7 @@ Feel free to reach out to me through any of these platforms.
 
 ## 💬 Fun Facts
 
-- I'm an avid traveler and enjoy exploring new cultures.
-- I love solving puzzles and playing chess in my free time.
+- I'm an introvert till you know me.
 - I'm currently learning about AI and its applications in data engineering.
 
 ---
@@ -62,11 +61,8 @@ Feel free to reach out to me through any of these platforms.
 
 ## 📚 Currently Learning
 
-- **Machine Learning:** Exploring algorithms and their implementations.
+- **Programming:** Exploring and sharping my sql and pyspark skill.
 - **Cloud Computing:** Diving into AWS services and architecture.
-- **Blockchain:** Understanding the fundamentals of blockchain technology.
 
 ---
-
-Feel free to customize this template further to align with your personal style and the projects you're most proud of. If you need assistance with adding specific sections or features, let me know!
 
