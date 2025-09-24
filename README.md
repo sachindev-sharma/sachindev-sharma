@@ -52,10 +52,10 @@ Feel free to reach out to me through any of these platforms.
 
 ## 🛠️ Tools & Technologies
 
-![Tools](https://img.shields.io/badge/Tools-Apache%20Spark-blue?logo=apache-spark)
-![Tools](https://img.shields.io/badge/Tools-Apache%20Kafka-blue?logo=apache-kafka)
-![Tools](https://img.shields.io/badge/Tools-Airflow-blue?logo=apache-airflow)
+![Tools](https://img.shields.io/badge/Tools-Azuer%20Data%20Factory-blue?logo=apache-kafka)
 ![Tools](https://img.shields.io/badge/Tools-dbt-blue?logo=dbt)
+![Tools](https://img.shields.io/badge/Tools-Apache%20Spark-blue?logo=apache-spark)
+![Tools](https://img.shields.io/badge/Tools-QlikReplicate-blue?logo=apache-airflow)
 
 ---
 
